@@ -14,3 +14,6 @@ mampやxammpのhtdocsをより見やすくするためのものです。
 DocsDashboardには6種類のテーマがあります。
 
 ![2017-10-19 22 06 23](https://user-images.githubusercontent.com/24543982/31772179-c50a31b0-b519-11e7-95a1-d4286d333059.png)
+
+## 使い方
+download後なかの`index.php`ファイルと`DocsDashboard/`フォルダをhtdocsのなかに入れたらOKです。
