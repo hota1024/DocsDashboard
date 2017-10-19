@@ -1,0 +1,155 @@
+@font-face{
+    font-family: 'Roboto';
+    src: url(../fonts/robotottf/Roboto-Light.ttf);
+}
+
+body{
+  font-family: Roboto;
+  font-weight: 100;
+}
+
+
+a{
+  text-transform: none !important;
+}
+
+
+.hide{
+  display: none;
+}
+
+
+.theme_item{
+  border-radius: 4px;
+}
+
+
+.theme_item_indigo{
+  border: 2px solid #7986cb;
+}
+
+
+.theme_item_indigo main{
+  background-color: white;
+  color: black;
+}
+
+
+.theme_item_red .theme_select_button{
+}
+
+
+.theme_item_red{
+  border: 2px solid #e57373;
+}
+
+
+.theme_item_red header{
+  background-color: #f44336;
+}
+
+
+.theme_item_red main{
+  background-color: #b71c1c;
+  color: white;
+}
+
+
+.theme_item_red .theme_select_button{
+  color: white;
+}
+
+
+.theme_item_green{
+  border: 2px solid #81c784;
+}
+
+
+.theme_item_green header{
+  background-color: #4caf50;
+}
+
+
+.theme_item_green main{
+  background-color: white;
+  color: black;
+}
+
+
+.theme_item_purple{
+  border: 2px solid #9575cd;
+}
+
+
+.theme_item_purple header{
+  background-color: #673ab7;
+}
+
+
+.theme_item_purple main{
+  background-color: #311b92;
+  color: white;
+}
+
+
+.theme_item_purple .theme_select_button{
+  color: white;
+}
+
+
+.theme_item_orange{
+  border: 2px solid #ffb74d;
+}
+
+
+.theme_item_orange header{
+  background-color: #ff9800;
+}
+
+
+.theme_item_orange main{
+  background-color: white;
+  color: black;
+}
+
+
+.theme_item_bluegray{
+  border: 2px solid #90a4ae;
+}
+
+
+.theme_item_bluegray header{
+  background-color: #607d8b;
+}
+
+
+.theme_item_bluegray main{
+  background-color: #263238;
+  color: white;
+}
+
+
+.theme_item_bluegray .theme_select_button{
+  color: white;
+}
+
+
+.theme_item .mdl-layout__container{
+  position: static !important;
+  border-radius: 4px;
+}
+
+
+.page-content{
+  padding: 16px;
+}
+
+
+.theme_red{
+  color: #f44336;
+}
+
+
+.theme_blue{
+  color: #2196F3;
+}

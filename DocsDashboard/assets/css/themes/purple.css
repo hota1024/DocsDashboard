@@ -1,0 +1,20 @@
+#main_nav{
+  background-color: #673ab7;
+}
+
+main{
+  background-color: #311b92;
+  color: white;
+}
+
+table{
+  background-color: #7e57c2 !important;
+}
+
+a,tr{
+  color: white !important;
+}
+
+.mdl-data-table tbody tr:hover {
+    background-color: #b39ddb;
+}
